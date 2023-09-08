@@ -1,5 +1,3 @@
-Certainly! Here's a simplified README for the provided Python tasks:
-
 # Python - More Classes and Objects
 
 This set of Python tasks is designed to help you practice working with classes and objects. Each task builds upon the previous one, adding more features and functionality to a `Rectangle` class.
@@ -68,5 +66,3 @@ python 101-nqueens.py N
 
 - N must be an integer >= 4.
 - The program prints solutions to the N queens problem, one per line.
-
-Enjoy coding and practicing your Python skills!
